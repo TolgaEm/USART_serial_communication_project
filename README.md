@@ -7,4 +7,8 @@
 
 ***also we monitize communication state by Tera Term basic program***
 
+***we receive 'a' and 'b' character then control led on or led off by the received characters***
+
 **Tera Term download link ---> http://www.teraterm.org/**
+
+
